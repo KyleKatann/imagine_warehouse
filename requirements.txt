@@ -1,0 +1,4 @@
+streamlit==0.60.0
+pandas==1.0.3
+networkx==2.3
+tsp==0.0.7
